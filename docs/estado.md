@@ -1,6 +1,7 @@
 # Gestión de estado — EcoTrack Meta
 
-**Equipo:** Jose Leonardo Martinez Gomez · _(pareja)_  
+**Equipo:** Jose Leonardo Martinez Gomez 
+Aviles Sotelo Christian Jesus  
 **Fecha:** 26/10/2026  
 **Biblioteca contrastada:** provider
 
